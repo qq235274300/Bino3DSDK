@@ -1,13 +1,13 @@
 {
-  "lang": "en-US",
-  "LegionGlassMirrorOrDetached": {
-    "en-US": "Our Legion display mirrored or detached from desktop. Exit!",
-    "zh-CN": "Legion 显示器已镜像或已从桌面分离，程序将退出！",
-    "ja-JP": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。"
-  },
-  "DisplayModeChanged": {
-    "en-US": "The display mode has changed. Please restart the application.",
-    "zh-CN": "显示器模式已改变，请重新启动程序。",
-    "ja-JP": "ディスプレイモードが変更されました。アプリケーションを再起動してください。"
-  }
+    "DisplayModeChanged": {
+        "en-US": "The display mode has changed. Please restart the application.",
+        "ja-JP": "ディスプレイモードが変更されました。アプリケーションを再起動してください。",
+        "zh-CN": "显示器模式已改变，请重新启动程序。"
+    },
+    "LegionGlassMirrorOrDetached": {
+        "en-US": "Our Legion display mirrored or detached from desktop. Exit!",
+        "ja-JP": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。",
+        "zh-CN": "Legion 显示器已镜像或已从桌面分离，程序将退出！"
+    },
+    "lang": "zh-CN"
 }
