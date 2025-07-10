@@ -9,5 +9,10 @@
         "ja-JP": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。",
         "zh-CN": "Legion 显示器已镜像或已从桌面分离，程序将退出！"
     },
+	"ConfigNotClearedNotice": {
+    "en-US": "3D config not cleared. It will be auto-cleaned after the game exits.",
+    "ja-JP": "3D構成がクリアされていません。ゲーム終了後に自動で削除されます。",
+    "zh-CN": "3D配置未清除，游戏退出后将自动清理。"
+	},
     "lang": "zh-CN"
 }
