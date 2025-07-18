@@ -1,18 +1,18 @@
 {
     "ConfigNotClearedNotice": {
-        "US-en": "3D config not cleared. It will be auto-cleaned after the game exits.",
+        "CN-zh": "3D配置未清除，游戏退出后将自动清理。",
         "JP-ja": "3D構成がクリアされていません。ゲーム終了後に自動で削除されます。",
-        "CN-zh": "3D配置未清除，游戏退出后将自动清理。"
+        "US-en": "3D config not cleared. It will be auto-cleaned after the game exits."
     },
     "DisplayModeChanged": {
-        "US-en": "The display mode has changed. Please restart the application.",
+        "CN-zh": "显示器模式已改变，请重新启动程序。",
         "JP-ja": "ディスプレイモードが変更されました。アプリケーションを再起動してください。",
-        "CN-zh": "显示器模式已改变，请重新启动程序。"
+        "US-en": "The display mode has changed. Please restart the application."
     },
     "LegionGlassMirrorOrDetached": {
-        "US-en": "Our Legion display mirrored or detached from desktop. Exit!",
+        "CN-zh": "Legion 显示器已镜像或已从桌面分离，程序将退出！",
         "JP-ja": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。",
-        "CN-zh": "Legion 显示器已镜像或已从桌面分离，程序将退出！"
+        "US-en": "Our Legion display mirrored or detached from desktop. Exit!"
     },
-    "lang": "CN-zh"
+    "lang": "zh-CN"
 }
