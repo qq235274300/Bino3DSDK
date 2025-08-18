@@ -1,18 +1,41 @@
 {
     "ConfigNotClearedNotice": {
-        "zh-CN": "3D配置未清除，游戏退出后将自动清理。",
-        "JP-ja": "3D構成がクリアされていません。ゲーム終了後に自動で削除されます。",
-        "US-en": "3D config not cleared. It will be auto-cleaned after the game exits."
+        "zh_CN": "3D配置未清除，游戏退出后将自动清理。",
+        "ja_jp": "3D構成がクリアされていません。ゲーム終了後に自動で削除されます。",
+        "en_US": "3D config not cleared. It will be auto-cleaned after the game exits.",
+		"es_xn": "La configuración 3D no se ha borrado. Se limpiará automáticamente al salir del juego.",
+		"fr_fr": "La configuration 3D n’a pas été effacée. Elle sera automatiquement supprimée après la fermeture du jeu.",
+		"de_de": "3D-Konfiguration nicht gelöscht. Sie wird nach Beenden des Spiels automatisch bereinigt.",
+		"pl_pl": "Konfiguracja 3D nie została wyczyszczona. Zostanie automatycznie usunięta po zamknięciu gry.",
+		"it_it": "Configurazione 3D non cancellata. Verrà pulita automaticamente dopo l'uscita dal gioco.",
+		"ko_kr": "3D 구성 설정이 지워지지 않았습니다. 게임 종료 후 자동으로 정리됩니다.",
+		"pt_pt": "Configuração 3D não foi limpa. Será automaticamente limpa após sair do jogo.",
+		"zh_TW": "3D 設定尚未清除，遊戲結束後將自動清理。",
+		"nb_no": "3D-konfigurasjon ikke fjernet. Den blir automatisk fjernet etter at spillet avsluttes.",
+		"hu_hu": "A 3D konfiguráció nem lett törölve. A játék befejezése után automatikusan törlődik.",
+		"cs_cz": "3D konfigurace nebyla vymazána. Bude automaticky odstraněna po ukončení hry.",
+		"sk_sk": "3D konfigurácia nebola vymazaná. Po ukončení hry bude automaticky odstránená.",
+		"ro_ro": "Configurația 3D nu a fost ștearsă. Va fi curățată automat după închiderea jocului.",
+		"nl_nl": "3D-configuratie niet gewist. Deze wordt automatisch verwijderd nadat het spel is afgesloten.",
+		"sv_se": "3D-konfigurationen har inte rensats. Den kommer att tas bort automatiskt efter att spelet avslutas.",
+		"hr_hr": "3D konfiguracija nije izbrisana. Bit će automatski uklonjena nakon izlaska iz igre.",
+		"fi_fi": "3D-asetuksia ei ole tyhjennetty. Ne poistetaan automaattisesti pelin päätyttyä.",
+		"tr_tr": "3D yapılandırması temizlenmedi. Oyun kapandıktan sonra otomatik olarak silinecektir.",
+		"uk_ua": "3D-конфігурацію не очищено. Вона буде автоматично видалена після завершення гри.",
+		"da_dk": "3D-konfigurationen er ikke ryddet. Den vil blive automatisk fjernet efter spillet afsluttes.",
+		"pt_br": "A configuração 3D não foi limpa. Será automaticamente removida após o encerramento do jogo.",
+		"el_gr": "Η 3D διαμόρφωση δεν καθαρίστηκε. Θα καθαριστεί αυτόματα μετά την έξοδο από το παιχνίδι.",
+		"ru_ru": "3D-конфигурация не очищена. Она будет автоматически удалена после выхода из игры."
     },
     "DisplayModeChanged": {
-        "zh-CN": "显示器模式已改变，请重新启动程序。",
-        "JP-ja": "ディスプレイモードが変更されました。アプリケーションを再起動してください。",
-        "US-en": "The display mode has changed. Please restart the application."
+        "zh_CN": "显示器模式已改变，请重新启动程序。",
+        "ja_jp": "ディスプレイモードが変更されました。アプリケーションを再起動してください。",
+        "en_US": "The display mode has changed. Please restart the application."
     },
     "LegionGlassMirrorOrDetached": {
-        "zh-CN": "Legion 显示器已镜像或已从桌面分离，程序将退出！",
-        "JP-ja": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。",
-        "US-en": "Our Legion display mirrored or detached from desktop. Exit!"
+        "zh_CN": "Legion 显示器已镜像或已从桌面分离，程序将退出！",
+        "ja_jp": "Legion ディスプレイがミラーリングまたはデスクトップから切断されました。終了します。",
+        "en_US": "Our Legion display mirrored or detached from desktop. Exit!"
     },
-    "lang": "zh-CN"
+    "lang": "zh_CN"
 }
